@@ -12,22 +12,14 @@
 
 // Backgrounds
 .bg-text {
-  background: #4a4a4a;
+  background: $gray-dark;
 }
 .bg-email {
-  background: #aeaeae;
+  background: $gray-light;
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $twitter-blue;
 }
 .bg-facebook {
-  background: #3b5998;
-}
-
-a {
-  font-size: 20px;
-}
-
-a:hover {
-  text-decoration: none;
+  background: $facebook-blue;
 }
